@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7a4bbf,100:412470&height=120&section=header&animation=fadeIn" width="100%"/>
-
+<img src="banner-top.svg" alt="" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=44&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=TAANISH+PATEL" alt="Taanish Patel" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=1200&color=9D6DE0&center=true&vCenter=true&width=700&height=32&lines=Embedded+systems+%26+avionics;Sensor+fusion+on+bare+metal;Telemetry+pipelines+and+ground+stations;Computer+vision+on+real+hardware" alt="focus areas" />
@@ -108,6 +107,5 @@ Recent work spans rocket avionics, a biometric vehicle-security build on Raspber
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:412470,100:7a4bbf&height=100&section=footer&animation=fadeIn" width="100%"/>
-
+<img src="banner-bottom.svg" alt="" width="100%"/>
 </div>
