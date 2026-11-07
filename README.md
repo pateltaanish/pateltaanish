@@ -15,7 +15,7 @@
 
 </div>
 
-Computer Engineering student at San Jose State, focused on embedded systems, avionics, and full-stack tooling around hardware. I build multi-MCU systems end to end — sensor fusion on bare metal, wireless telemetry, and the dashboards that make the data readable — and I like problems that only show up once the hardware is actually running.
+Computer Engineering masters student at San Jose State, focused on embedded systems, avionics, and full-stack tooling around hardware. I build multi-MCU systems end to end — sensor fusion on bare metal, wireless telemetry, and the dashboards that make the data readable — and I like problems that only show up once the hardware is actually running.
 
 Recent work spans rocket avionics, a biometric vehicle-security build on Raspberry Pi, and a fair amount of time root-causing why servos won't behave.
 
