@@ -84,14 +84,9 @@ Recent work spans rocket avionics, a biometric vehicle-security build on Raspber
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pateltaanish&show_icons=true&hide_border=true&title_color=9d6de0&text_color=e6e6e6&icon_color=7a4bbf&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pateltaanish&layout=compact&hide_border=true&title_color=9d6de0&text_color=e6e6e6&bg_color=0d1117" />
+<img height="165" src="./profile/stats.svg" alt="Taanish Patel's GitHub statistics" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pateltaanish&bg_color=0d1117&color=9d6de0&line=7a4bbf&point=ffffff&area=true&hide_border=true" width="100%" />
+<img height="165" src="./profile/top-langs.svg" alt="Taanish Patel's most used programming languages" />
 
 </div>
 
