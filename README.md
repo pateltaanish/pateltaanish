@@ -29,7 +29,8 @@ Recent work spans rocket avionics, a biometric vehicle-security build on Raspber
 ## Projects
 
 - **Biometric Automobile Security System** · Mar 2026 – present
-  Facial-recognition vehicle authentication on Raspberry Pi 5 (OpenCV / InsightFace) with SQLite-backed profiles and face embeddings. ESP32-controlled relays, a servo lock, and an L298N driver simulate secure door unlock and ignition control.
+Developed a biometric automobile security system that enables keyless vehicle access through facial recognition, successfully integrating the system into a 2003 Honda Accord. Built using a Raspberry Pi 5, OpenCV, and InsightFace, the system authenticates authorized users through real-time facial recognition and communicates with an ESP32 microcontroller to electronically unlock the vehicle's doors. Additional features include SQLite-based facial enrollment, PIN authentication, role-based access control, a React web dashboard, and an Android application with Bluetooth Low Energy (BLE) connectivity. The system integrates computer vision, embedded systems, secure authentication, and automotive electronics to demonstrate a functional alternative to traditional vehicle keys, with ignition control and additional security enhancements under development.
+
 - **Maze Game** · Dec 2024
   3D first-person maze game in Godot with AI enemies, in-game currency, and a MySQL-backed leaderboard — player progression, enemy behavior, and reward systems.
 
